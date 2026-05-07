@@ -44,6 +44,7 @@ Aspiring software engineer and student focusing on full-stack web development (R
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF69B4?style=flat&logo=figma&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
 
 **Familiar with basics**
 
