@@ -50,6 +50,7 @@ Aspiring software engineer and student focusing on full-stack web development (R
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-FF69B4?style=flat&logo=figma&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-FF9E2A?style=flat&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat&logo=n8n&logoColor=white)
 
 **Familiar with basics**
@@ -60,7 +61,6 @@ Aspiring software engineer and student focusing on full-stack web development (R
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FFC624?style=flat&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-FF9E2A?style=flat&logoColor=white)
 
 **СMS**
 
